@@ -1,6 +1,5 @@
-English
-=======
 About us
+=======
 The NeoPastafarian Church is a computational church 100% downward compatible with 
 the Church of the Flying Spaghetti Monster as revealed to us by the prophet 
 Bobby Henderson. 
